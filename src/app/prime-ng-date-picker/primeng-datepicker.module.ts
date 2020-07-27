@@ -10,3 +10,7 @@ import { PrimengDatepickerComponent } from './primeng-datepicker.component';
   exports: [PrimengDatepickerComponent, SharedModule]
 })
 export class PrimengDatepickerModule {}
+
+
+
+
