@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~7.0.0",
     "@angular/router": "~7.0.0",
     "core-js": "^2.5.4",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "jalali-moment": "^3.2.3",
     "moment": "^2.23.0",
     "moment-jalaali": "^0.8.3",
